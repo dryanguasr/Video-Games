@@ -12,4 +12,4 @@ These games have their corresponding built version in the corresponding Build fo
 Games developed in the Coursera's Course [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2)
 - [Memory](http://www.codeskulptor.org/#user40_ZbJ3SDRgJh_3.py)
 - [Pong](http://www.codeskulptor.org/#user40_Y7ITUFJJ42_6.py)
-- [Asteroids](http://www.codeskulptor.org/#user40_3eTJ8JiWPo_8.py)
+- [Asteroids](http://www.codeskulptor.org/#user40_3eTJ8JiWPo_8.py)(Under Construction)
